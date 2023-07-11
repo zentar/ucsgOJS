@@ -1,6 +1,6 @@
 # ucsgOJS
 
-An official theme for OJS 3.2+.
+An adapted theme for OJS 3.2+.
 
 ## Installation
 This theme can be installed through the **Plugin Gallery** in Open Journal Systems. If it's not available in the plugin gallery, you may need to update Open Journal Systems to a compatible version. The theme also can be installed manually by picking up and downloading the correspondent version from a [release page]([(https://github.com/zentar/ucsgOJS.git)).
